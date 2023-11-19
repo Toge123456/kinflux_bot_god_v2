@@ -7,14 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254741657564', 'Zneimarh_ke', true],
-  ['+254110377776', 'kinflux digital', true], 
-  ['556199740980'] 
+  ['17245423663', '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true],
+  ['15104174739', '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true], 
+  ['24102150169'] 
 ] //Number of owners
 
-global.mods = ['13374230362','254110377776','556199740980'] 
-global.prems = ['22589747147', '254110377776', '556199740980']
-global.allowed = ['556199740980', '254110377776', '13374230362']
+global.mods = ['17245423663','15104174739','24102150169'] 
+global.prems = ['17245423663', '15104174739', '24102150169']
+global.allowed = ['17245423663', '15104174739', '24102150169']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -48,16 +48,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.packname = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' 
+global.author = '@17245423663' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28\n' 
-global.dygp = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
+global.dygp = 'https://chat.whatsapp.com/CL0rq2IZaUC14T748pthdQ'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
+global.fgyt = 'https://chat.whatsapp.com/CL0rq2IZaUC14T748pthdQ'
 global.fgpyp = ''
-global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
+global.fglog = 'https://telegra.ph/file/e13d21779eed0e5c88e1b.jpg' 
 
 
 global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
