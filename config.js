@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀'
+global.botname = '𝓔𝓶𝓶𝓪'
 global.premium = 'true'
 global.packname = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' 
 global.author = '@17245423663' 
@@ -60,7 +60,7 @@ global.fgpyp = ''
 global.fglog = 'https://telegra.ph/file/e13d21779eed0e5c88e1b.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _𝓔𝓶𝓶𝓪 loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
