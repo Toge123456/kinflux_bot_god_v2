@@ -12,9 +12,9 @@ global.owner = [
   ['24102150169'] 
 ] //Number of owners
 
-global.mods = ['17245423663','15104174739','24102150169'] 
-global.prems = ['17245423663', '15104174739', '24102150169']
-global.allowed = ['17245423663', '15104174739', '24102150169']
+global.mods = ['17245423663','17245423663','24102150169'] 
+global.prems = ['17245423663', '17245423663', '24102150169']
+global.allowed = ['17245423663', '17245423663', '24102150169']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝓔𝓶𝓶𝓪'
+global.botname = '𝑻𝑶𝑮𝑬 𝑫𝑬𝑷𝑳𝑶𝑰𝑬𝑴𝑬𝑵𝑻'
 global.premium = 'true'
 global.packname = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' 
 global.author = '@17245423663' 
@@ -60,7 +60,7 @@ global.fgpyp = ''
 global.fglog = 'https://telegra.ph/file/e13d21779eed0e5c88e1b.jpg' 
 
 
-global.wait = '*⌛ _𝓔𝓶𝓶𝓪 loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _ 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
